@@ -1,8 +1,8 @@
 # kadai1
 
 課題1.1
-My name si Misato.
-My is name Misato.
+She is a sutdent.
+She student a is.
 
 課題1.4
 a=10
