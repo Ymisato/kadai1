@@ -1,10 +1,10 @@
 # kadai1
 
-—ū¸K–ā‘č1.1
+課題1.1
 My name si Misato.
 My is name Misato.
 
-—ū¸K–ā‘č1.4
+課題1.4
 a=10
 b=43.5
 c=1.61
